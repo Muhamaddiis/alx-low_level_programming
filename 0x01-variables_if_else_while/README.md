@@ -2,3 +2,4 @@ a C program that will assign a random number to the variable n each time it is e
 a C program that will assign a random number to the variable n each time it is executed using another if statement.
 a C program that prints the alphabet in lowercase, followed by a new line.
 a C program that prints the alphabet in lowercase, followed by a new line.
+a C program that prints the alphabet in lowercase, except q and e, followed by a new line.
