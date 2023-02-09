@@ -79,3 +79,4 @@ doggo->owner = _strcopy(doggo->owner, owner);
 
 return (doggo);
 }
+
