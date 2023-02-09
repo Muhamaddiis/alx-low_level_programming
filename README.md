@@ -1,2 +1,5 @@
-a function that takes a pointer to an int as parameter and updates the value it points to to 98.
-a function that swaps the values of two integers.
+# Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
+
+## Description
+This repository contains programs written for the low-level programming and
+algorithm section .
